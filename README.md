@@ -18,12 +18,12 @@
 
 ### GitHub Stats
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=bagussona&theme=tokyonight"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=bagussona&theme=tokyonight&layout=compact&hide=contribs,prs"/>
 
 ### GitHub Top-Langs Stats
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bagussona&theme=tokyonight"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bagussona&theme=tokyonight&layout=compact"/>
 
 ### WakaTime Stats
 
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@86189ad1-979a-4fbc-a067-abe50bd5f766&theme=tokyonight"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@86189ad1-979a-4fbc-a067-abe50bd5f766&theme=tokyonight&layout=compact"/>
