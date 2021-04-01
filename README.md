@@ -26,6 +26,4 @@
 
 ### WakaTime Stats
 
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=bagussona"/>
-
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@86189ad1-979a-4fbc-a067-abe50bd5f766&theme=tokyonight"/>
