@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ### GitHub Stats
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=bagussona&theme=tokyonight&layout=compact&hide=contribs,prs&show_icons=true"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=bagussona&theme=tokyonight&layout=compact&hide=prs&show_icons=true"/>
 
 ### GitHub Top-Langs Stats
 
