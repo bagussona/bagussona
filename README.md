@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 
   **📫 Find me on:**<br>
 
-[![Twitter URL](https://img.shields.io/twitter/url?label=email&logo=gmail&style=social&url=http%3A%2F%2Fmailto%3Acontact.bagussona87%40gmail.com)](mailto:contact.bagussona87@gmail.com)
+[![Twitter URL](https://img.shields.io/twitter/url?label=email&logo=gmail&style=social&url=http%3A%2F%2Fmailto%3Abagussona87%40gmail.com)](mailto:bagussona87@gmail.com)
 [![Twitter URL](https://img.shields.io/twitter/url?label=Twitter&logo=Twitter&style=social&url=https%3A%2F%2Ftwitter.com%2Fismlhbb)](https://twitter.com/bagus_sona)
 [![Twitter URL](https://img.shields.io/twitter/url?label=Facebook&logo=Facebook&style=social&url=https%3A%2F%2Ffacebook.com%2Fismlhbb)](https://facebook.com/bsona1)
 [![Twitter URL](https://img.shields.io/twitter/url?label=Instagram&logo=Instagram&style=social&url=https%3A%2F%2Finstagram.com%2Fismlhbb)](https://instagram.com/bagus_sona)
