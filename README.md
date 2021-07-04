@@ -33,10 +33,10 @@ Here are some ideas to get you started:
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@86189ad1-979a-4fbc-a067-abe50bd5f766&theme=tokyonight&layout=compact&show_icons=true&hide=YAML"/>
 </div>
 
-<div align="center">
  
+### **📫 Find me on:**<br>
 
-  <br>**📫 Find me on:**<br>
+<div align="center">
 
 [![Twitter URL](https://img.shields.io/twitter/url?label=email&logo=gmail&style=social&url=http%3A%2F%2Fmailto%3Abagussona87%40gmail.com)](mailto:bagussona87@gmail.com)
 [![Twitter URL](https://img.shields.io/twitter/url?label=Twitter&logo=Twitter&style=social&url=https%3A%2F%2Ftwitter.com%2Fismlhbb)](https://twitter.com/BagusSona)
@@ -46,9 +46,10 @@ Here are some ideas to get you started:
 
 </div>
 
+### **✨ Visitors**<br>
 
-<div>
- <br>**✨ Visitors**<br>
+<div align="center">
  
 [![ViewCount](https://views.whatilearened.today/views/github/bagussona/ismlhbb.svg?cache=remove)](#)
+
 </div>
