@@ -2,7 +2,6 @@
 
 Here are some ideas to get you started:
 **bagussona/bagussona** is a ✨ _special_ ✨ repository!
-<!-- ts `README.md` (this file) appears on your GitHub profile. -->
 
 
 <!-- - 🔭 I’m currently working on ...
@@ -14,19 +13,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
 
-
 <div align="center">
 
-### GitHub Stats
+|                                                            GitHub Stats                                                             |                                                        GitHub Top-Langs Stats                                                        |
+| :---------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------: |
+| <img src="https://github-readme-stats.vercel.app/api?username=bagussona&theme=tokyonight&layout=compact&hide=prs&show_icons=true"/> | <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bagussona&theme=tokyonight&layout=compact&show_icons=true"/> |
 
-<img src="https://github-readme-stats.vercel.app/api?username=bagussona&theme=tokyonight&layout=compact&hide=prs&show_icons=true"/>
-</div>
-
-<div align="center">
-
-### GitHub Top-Langs Stats
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=bagussona&theme=tokyonight&layout=compact&show_icons=true"/>
 </div>
 
 <div align="center">
