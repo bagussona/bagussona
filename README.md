@@ -22,11 +22,11 @@ I'm bagussona
 | <img src="https://github-readme-stats.vercel.app/api?username=bagussona&theme=tokyonight&layout=compact&hide=prs&show_icons=true"/> | <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bagussona&theme=tokyonight&layout=compact&show_icons=true"/> |
 |  |  | -->
 
-[![Linkedin URL](https://img.shields.io/twitter/url?label=Linkedin&logo=linkedin&style=social&url=https%3A%2F%2Ft.me%2Fismlhbb)](https://www.linkedin.com/in/bagus-sonarangga/)
+<!-- [![Linkedin URL](https://img.shields.io/twitter/url?label=Linkedin&logo=linkedin&style=social&url=https%3A%2F%2Ft.me%2Fismlhbb)](https://www.linkedin.com/in/bagus-sonarangga/)
 [![Facebook URL](https://img.shields.io/twitter/url?label=Facebook&logo=Facebook&style=social&url=https%3A%2F%2Ffacebook.com%2Fismlhbb)](https://facebook.com/bsona1)
 [![Instagram URL](https://img.shields.io/twitter/url?label=Instagram&logo=Instagram&style=social&url=https%3A%2F%2Finstagram.com%2Fismlhbb)](https://instagram.com/bagus_sona)
 [![Telegram URL](https://img.shields.io/twitter/url?label=Telegram&logo=telegram&style=social&url=https%3A%2F%2Ft.me%2Fismlhbb)](https://t.me/bagussona)
-[![Gmail URL](https://img.shields.io/twitter/url?label=Email&logo=gmail&style=social&url=http%3A%2F%2Fmailto%3Abagussona87%40gmail.com)](mailto:bagussona87@gmail.com)<br>
+[![Gmail URL](https://img.shields.io/twitter/url?label=Email&logo=gmail&style=social&url=http%3A%2F%2Fmailto%3Abagussona87%40gmail.com)](mailto:bagussona87@gmail.com)<br> -->
 
 <!-- [![Windows](https://badgen.net/badge/icon/windows?icon=windows&label)](https://microsoft.com/windows/)
 [![Visual Studio](https://badgen.net/badge/icon/visualstudio?icon=visualstudio&label)](https://visualstudio.microsoft.com)
