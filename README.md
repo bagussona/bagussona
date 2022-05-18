@@ -14,7 +14,7 @@ I'm bagussona
 <!-- source: https://tenor.com/vJb6.gif -->
 
   <a href="https://tenor.com/vJb6.gif">
-    <img src="https://raw.githubusercontent.com/bagussona/bagussona/main/anime-kiss.gif" style="width: 1280px; height: 420px;" width="1280" height="420" />
+    <img src="https://raw.githubusercontent.com/bagussona/bagussona/main/anime-kiss.gif" style="width: 1280px; height: 360px;" width="1280" height="360" />
   </a>
 
 <!-- |                                                            GitHub Stats                                                             |                                                        GitHub Top-Langs Stats                                                        |
